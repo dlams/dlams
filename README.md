@@ -40,6 +40,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>   
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <br/><br/>
+  
+  [![dlams's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dlams&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dlams)
+
   
   </div><br/>
   <div>
@@ -74,15 +78,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/OBS Studio-302E31?style=flat-square&logo=OBS Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cinema 4D-011A6A?style=flat-square&logo=Cinema 4D&logoColor=white"/>
   
-
   </div>
 
   
-  <br/><br/><br/><br/><br/>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=dlams&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <br/><br/><br/>
+  
   ![dlams's github stats](https://github-readme-stats.vercel.app/api?username=dlams&show_icons=true)
-  [![dlams's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dlams&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dlams)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=dlams&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
