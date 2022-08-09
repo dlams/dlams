@@ -40,6 +40,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>   
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  
+  <!-- 여기에 리액트 추가 -->
+  
   <br/><br/>
   
   [![dlams's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dlams&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dlams)
