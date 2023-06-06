@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
   ### 소개 페이지
-  [Show Page Link](https://www.notion.so/83ce01581d7749ca864fca1980528fe1)
+  [Show Page Link](https://dlalsdn.notion.site/83ce01581d7749ca864fca1980528fe1?pvs=4)
   
   <br/>
   
